@@ -1,0 +1,213 @@
+﻿ID,Age,Gender,Institution,Color,Academic.Performance,Excellence.education,General.interest,Faster.classes,Easy.memorizing,Enhanced.education,Increased.perception
+1,24,Female,IESEN ,5.Not.defined,Very Important,Very Important,Very Important,Very Important,Neutral,Very Important,Very Important
+2,21,Female,IESEN ,5.Not.defined,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+3,21,Female,IESEN ,5.Not.defined,Slightly Important,Very Important,Slightly Important,Neutral,Neutral,Very Important,Very Important
+4,21,Female,IESEN ,5.Not.defined,Important,Very Important,Very Important,Very Important,Important,Very Important,Very Important
+5,21,Female,IESEN ,5.Not.defined,Neutral,Important,Important,Neutral,Important,Very Important,Neutral
+6,26,Female,ITESM,3.Explorer,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+7,30,Male,ITESM,2.Socializer,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+8,31,Female,ITESM,4. Achiever,Neutral,Neutral,Important,Slightly Important,Neutral,Slightly Important,Neutral
+9,35,Male,ITESM,3.Explorer,Neutral,Neutral,Important,Neutral,Neutral,Neutral,Important
+10,36,Male,ITESM,2.Socializer,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+11,39,Female,ITESM,2.Socializer,Very Important,Neutral,Very Important,Very Important,Neutral,Very Important,Very Important
+12,28,Female,ITESM,3.Explorer,Important,Very Important,Very Important,Important,Important,Very Important,Very Important
+13,47,Female,ITESM,3.Explorer,Important,Very Important,Very Important,Important,Important,Very Important,Very Important
+14,33,Female,ITESM,3.Explorer,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+15,40,Male,ITESM,2.Socializer,Very Important,Important,Very Important,Very Important,Important,Very Important,Very Important
+16,27,Female,ITESM,2.Socializer,Important,Neutral,Very Important,Neutral,Neutral,Very Important,Important
+17,42,Female,ITESM,2.Socializer,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+18,36,Male,ITESM,2.Socializer,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+19,41,Male,ITESM,2.Socializer,Very Important,Very Important,Very Important,Important,Important,Important,Very Important
+20,39,Female,ITESM,4. Achiever,Not Important,Not Important,Slightly Important,Slightly Important,Slightly Important,Neutral,Important
+21,40,Male,UAGRM,4. Achiever,Very Important,Very Important,Very Important,Neutral,Very Important,Very Important,Very Important
+22,45,Female,UAGRM,6.Killer,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+23,59,Female,UAGRM,3.Explorer,Neutral,Important,Important,Important,Neutral,Important,Very Important
+24,50,Female,UAGRM,3.Explorer,Very Important,Neutral,Very Important,Neutral,Neutral,Neutral,Very Important
+25,67,Male,UAGRM,2.Socializer,Neutral,Neutral,Neutral,Neutral,Neutral,Important,Neutral
+26,51,Female,UAGRM,2.Socializer,Important,Important,Important,Important,Important,Very Important,Very Important
+27,36,Female,UAGRM,2.Socializer,Slightly Important,Slightly Important,Slightly Important,Neutral,Slightly Important,Slightly Important,Slightly Important
+28,54,Male,UAGRM,2.Socializer,Neutral,Neutral,Neutral,Neutral,Neutral,Important,Neutral
+29,42,Female,UAGRM,2.Socializer,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+30,63,Male,UAGRM,3.Explorer,Important,Neutral,Important,Neutral,Slightly Important,Neutral,Important
+31,60,Female,UAGRM,2.Socializer,Important,Very Important,Important,Important,Very Important,Important,Very Important
+32,50,Female,UAGRM,4. Achiever,Very Important,Important,Very Important,Very Important,Very Important,Very Important,Important
+33,70,Female,UAGRM,5.Not.defined,Neutral,Important,Important,Neutral,Neutral,Important,Important
+34,50,Female,UAGRM,4. Achiever,Very Important,Very Important,Important,Important,Important,Very Important,Very Important
+35,43,Female,UAGRM,2.Socializer,Important,Very Important,Important,Very Important,Neutral,Important,Important
+36,70,Female,UAGRM,5.Not.defined,Important,Important,Neutral,Important,Important,Important,Very Important
+37,46,Male,UAGRM,3.Explorer,Important,Important,Important,Important,Important,Important,Important
+38,47,Male,UAGRM,2.Socializer,Very Important,Very Important,Very Important,Very Important,Very Important,Important,Very Important
+39,19,Female,UNICAN,3.Explorer,Important,Slightly Important,Important,Important,Slightly Important,Important,Important
+40,19,Female,UNICAN,3.Explorer,Very Important,Important,Very Important,Important,Slightly Important,Neutral,Important
+41,19,Female,UNICAN,3.Explorer,Important,Neutral,Neutral,Slightly Important,Very Important,Very Important,Not Important
+42,20,Female,UNICAN,3.Explorer,Important,Important,Slightly Important,Very Important,Neutral,Very Important,Slightly Important
+43,19,Female,UNICAN,2.Socializer,Very Important,Very Important,Very Important,Very Important,Important,Very Important,Very Important
+44,21,Female,UNICAN,5.Not.defined,Very Important,Neutral,Very Important,Important,Slightly Important,Important,Very Important
+45,19,Female,UNICAN,2.Socializer,Important,Neutral,Important,Very Important,Slightly Important,Very Important,Important
+46,20,Female,UNICAN,5.Not.defined,Very Important,Very Important,Important,Very Important,Important,Important,Important
+47,20,Non binary,UNICAN,2.Socializer,Very Important,Important,Important,Not Important,Not Important,Important,Very Important
+48,19,Male,UNICAN,3.Explorer,Important,Important,Important,Neutral,Important,Very Important,Very Important
+49,20,Female,UNICAN,3.Explorer,Not Important,Not Important,Not Important,Not Important,Not Important,Slightly Important,Not Important
+50,20,Female,UNICAN,5.Not.defined,Very Important,Very Important,Neutral,Very Important,Important,Very Important,Very Important
+51,20,Female,UNICAN,2.Socializer,Very Important,Important,Very Important,Important,Important,Important,Very Important
+52,21,Female,UNAM,2.Socializer,Important,Important,Important,Important,Important,Very Important,Important
+53,20,Female,UNAM,2.Socializer,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+54,20,Female,UNAM,2.Socializer,Very Important,Very Important,Very Important,Very Important,Important,Very Important,Very Important
+55,19,Female,UNAM,2.Socializer,Very Important,Important,Very Important,Important,Neutral,Very Important,Very Important
+56,22,Female,UNAM,5.Not.defined,Not Important,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+57,20,Female,UNAM,4. Achiever,Very Important,Very Important,Very Important,Very Important,Important,Very Important,Very Important
+58,20,Male,UNAM,2.Socializer,Important,Important,Important,Neutral,Important,Important,Very Important
+59,20,Female,UNAM,2.Socializer,Neutral,Neutral,Important,Important,Neutral,Important,Important
+60,20,Female,UNAM,4. Achiever,Very Important,Very Important,Very Important,Very Important,Very Important,Important,Very Important
+61,21,Female,UNAM,3.Explorer,Very Important,Very Important,Very Important,Important,Very Important,Very Important,Very Important
+62,20,Female,UNAM,2.Socializer,Very Important,Important,Very Important,Very Important,Important,Very Important,Very Important
+63,20,Female,UNAM,5.Not.defined,Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+64,19,Female,UNAM,5.Not.defined,Important,Very Important,Important,Important,Important,Important,Very Important
+65,19,Female,UNAM,2.Socializer,Important,Important,Neutral,Neutral,Neutral,Very Important,Important
+66,19,Female,UNAM,2.Socializer,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+67,20,Female,UNAM,2.Socializer,Important,Important,Important,Important,Important,Very Important,Important
+68,22,Female,UNAM,2.Socializer,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+69,20,Male,UNAM,2.Socializer,Important,Very Important,Very Important,Very Important,Important,Important,Very Important
+70,21,Female,UNAM,4. Achiever,Slightly Important,Neutral,Neutral,Important,Not Important,Neutral,Important
+71,19,Male,UNAM,2.Socializer,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important
+72,21,Female,UNAM,2.Socializer,Important,Important,Important,Important,Important,Very Important,Important
+73,20,Male,UNAM,2.Socializer,Very Important,Important,Neutral,Neutral,Important,Very Important,Important
+74,20,Female,UNAM,3.Explorer,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+75,21,Female,UNAM,5.Not.defined,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+76,20,Female,UNAM,2.Socializer,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+77,22,Female,UNAM,2.Socializer,Important,Very Important,Very Important,Very Important,Neutral,Important,Very Important
+78,20,Female,UNAM,6.Killer,Important,Neutral,Neutral,Important,Important,Important,Neutral
+79,20,Female,UNAM,2.Socializer,Not Important,Not Important,Not Important,Not Important,Not Important,Very Important,Not Important
+80,22,Female,UNAM,5.Not.defined,Neutral,Neutral,Neutral,Slightly Important,Slightly Important,Neutral,Neutral
+81,19,Female,UNAM,2.Socializer,Important,Important,Important,Very Important,Important,Very Important,Important
+82,20,Female,UNAM,4. Achiever,Important,Neutral,Important,Important,Important,Very Important,Neutral
+83,20,Female,UNAM,3.Explorer,Very Important,Very Important,Very Important,Very Important,Important,Very Important,Very Important
+84,20,Female,UNAM,3.Explorer,Very Important,Very Important,Very Important,Neutral,Important,Very Important,Very Important
+85,20,Female,UNAM,2.Socializer,Important,Neutral,Important,Important,Important,Very Important,Neutral
+86,21,Female,UNAM,4. Achiever,Important,Important,Important,Important,Neutral,Very Important,Important
+87,19,Female,UNAM,2.Socializer,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+88,20,Female,UNAM,2.Socializer,Not Important,Not Important,Slightly Important,Not Important,Neutral,Important,Neutral
+89,19,Female,UNAM,2.Socializer,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+90,20,Female,UNAM,2.Socializer,Very Important,Very Important,Important,Important,Important,Very Important,Very Important
+91,20,Female,UNAM,2.Socializer,Very Important,Very Important,Important,Very Important,Very Important,Very Important,Very Important
+92,20,Female,UNAM,2.Socializer,Slightly Important,Not Important,Slightly Important,Neutral,Neutral,Neutral,Not Important
+93,20,Female,UNAM,2.Socializer,Neutral,Not Important,Slightly Important,Neutral,Slightly Important,Very Important,Neutral
+94,19,Female,UNAM,2.Socializer,Important,Important,Important,Very Important,Very Important,Very Important,Important
+95,21,Male,UNAM,3.Explorer,Important,Important,Important,Important,Important,Important,Neutral
+96,21,Female,UNAM,4. Achiever,Neutral,Important,Very Important,Neutral,Slightly Important,Neutral,Very Important
+97,23,Female,UNAM,4. Achiever,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+98,20,Female,UNAM,2.Socializer,Neutral,Neutral,Neutral,Not Important,Neutral,Very Important,Neutral
+99,21,Female,UNAM,2.Socializer,Important,Very Important,Very Important,Important,Important,Very Important,Important
+100,20,Female,UNAM,3.Explorer,Slightly Important,Important,Neutral,Slightly Important,Slightly Important,Neutral,Neutral
+101,20,Female,UNAM,3.Explorer,Very Important,Very Important,Important,Very Important,Neutral,Very Important,Important
+102,20,Female,UNAM,3.Explorer,Very Important,Important,Very Important,Very Important,Very Important,Important,Important
+103,20,Female,UNAM,2.Socializer,Important,Important,Very Important,Very Important,Important,Very Important,Very Important
+104,19,Female,UNAM,3.Explorer,Neutral,Slightly Important,Slightly Important,Not Important,Slightly Important,Important,Important
+105,21,Female,UNAM,2.Socializer,Neutral,Important,Important,Important,Slightly Important,Important,Important
+106,20,Female,URJC,2.Socializer,Important,Very Important,Very Important,Important,Important,Important,Very Important
+107,24,Female,IESEN ,1.All,Very Important,Very Important,Very Important,Very Important,Neutral,Very Important,Very Important
+108,21,Female,IESEN ,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+109,21,Female,IESEN ,1.All,Slightly Important,Very Important,Slightly Important,Neutral,Neutral,Very Important,Very Important
+110,21,Female,IESEN ,1.All,Important,Very Important,Very Important,Very Important,Important,Very Important,Very Important
+111,21,Female,IESEN ,1.All,Neutral,Important,Important,Neutral,Important,Very Important,Neutral
+112,26,Female,ITESM,1.All,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+113,30,Male,ITESM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+114,31,Female,ITESM,1.All,Neutral,Neutral,Important,Slightly Important,Neutral,Slightly Important,Neutral
+115,35,Male,ITESM,1.All,Neutral,Neutral,Important,Neutral,Neutral,Neutral,Important
+116,36,Male,ITESM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+117,39,Female,ITESM,1.All,Very Important,Neutral,Very Important,Very Important,Neutral,Very Important,Very Important
+118,28,Female,ITESM,1.All,Important,Very Important,Very Important,Important,Important,Very Important,Very Important
+119,47,Female,ITESM,1.All,Important,Very Important,Very Important,Important,Important,Very Important,Very Important
+120,33,Female,ITESM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+121,40,Male,ITESM,1.All,Very Important,Important,Very Important,Very Important,Important,Very Important,Very Important
+122,27,Female,ITESM,1.All,Important,Neutral,Very Important,Neutral,Neutral,Very Important,Important
+123,42,Female,ITESM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+124,36,Male,ITESM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+125,41,Male,ITESM,1.All,Very Important,Very Important,Very Important,Important,Important,Important,Very Important
+126,39,Female,ITESM,1.All,Not Important,Not Important,Slightly Important,Slightly Important,Slightly Important,Neutral,Important
+127,40,Male,UAGRM,1.All,Very Important,Very Important,Very Important,Neutral,Very Important,Very Important,Very Important
+128,45,Female,UAGRM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+129,59,Female,UAGRM,1.All,Neutral,Important,Important,Important,Neutral,Important,Very Important
+130,50,Female,UAGRM,1.All,Very Important,Neutral,Very Important,Neutral,Neutral,Neutral,Very Important
+131,67,Male,UAGRM,1.All,Neutral,Neutral,Neutral,Neutral,Neutral,Important,Neutral
+132,51,Female,UAGRM,1.All,Important,Important,Important,Important,Important,Very Important,Very Important
+133,36,Female,UAGRM,1.All,Slightly Important,Slightly Important,Slightly Important,Neutral,Slightly Important,Slightly Important,Slightly Important
+134,54,Male,UAGRM,1.All,Neutral,Neutral,Neutral,Neutral,Neutral,Important,Neutral
+135,42,Female,UAGRM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+136,63,Male,UAGRM,1.All,Important,Neutral,Important,Neutral,Slightly Important,Neutral,Important
+137,60,Female,UAGRM,1.All,Important,Very Important,Important,Important,Very Important,Important,Very Important
+138,50,Female,UAGRM,1.All,Very Important,Important,Very Important,Very Important,Very Important,Very Important,Important
+139,70,Female,UAGRM,1.All,Neutral,Important,Important,Neutral,Neutral,Important,Important
+140,50,Female,UAGRM,1.All,Very Important,Very Important,Important,Important,Important,Very Important,Very Important
+141,43,Female,UAGRM,1.All,Important,Very Important,Important,Very Important,Neutral,Important,Important
+142,70,Female,UAGRM,1.All,Important,Important,Neutral,Important,Important,Important,Very Important
+143,46,Male,UAGRM,1.All,Important,Important,Important,Important,Important,Important,Important
+144,47,Male,UAGRM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Important,Very Important
+145,19,Female,UNICAN,1.All,Important,Slightly Important,Important,Important,Slightly Important,Important,Important
+146,19,Female,UNICAN,1.All,Very Important,Important,Very Important,Important,Slightly Important,Neutral,Important
+147,19,Female,UNICAN,1.All,Important,Neutral,Neutral,Slightly Important,Very Important,Very Important,Not Important
+148,20,Female,UNICAN,1.All,Important,Important,Slightly Important,Very Important,Neutral,Very Important,Slightly Important
+149,19,Female,UNICAN,1.All,Very Important,Very Important,Very Important,Very Important,Important,Very Important,Very Important
+150,21,Female,UNICAN,1.All,Very Important,Neutral,Very Important,Important,Slightly Important,Important,Very Important
+151,19,Female,UNICAN,1.All,Important,Neutral,Important,Very Important,Slightly Important,Very Important,Important
+152,20,Female,UNICAN,1.All,Very Important,Very Important,Important,Very Important,Important,Important,Important
+153,20,Non binary,UNICAN,1.All,Very Important,Important,Important,Not Important,Not Important,Important,Very Important
+154,19,Male,UNICAN,1.All,Important,Important,Important,Neutral,Important,Very Important,Very Important
+155,20,Female,UNICAN,1.All,Not Important,Not Important,Not Important,Not Important,Not Important,Slightly Important,Not Important
+156,20,Female,UNICAN,1.All,Very Important,Very Important,Neutral,Very Important,Important,Very Important,Very Important
+157,20,Female,UNICAN,1.All,Very Important,Important,Very Important,Important,Important,Important,Very Important
+158,21,Female,UNAM,1.All,Important,Important,Important,Important,Important,Very Important,Important
+159,20,Female,UNAM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+160,20,Female,UNAM,1.All,Very Important,Very Important,Very Important,Very Important,Important,Very Important,Very Important
+161,19,Female,UNAM,1.All,Very Important,Important,Very Important,Important,Neutral,Very Important,Very Important
+162,22,Female,UNAM,1.All,Not Important,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+163,20,Female,UNAM,1.All,Very Important,Very Important,Very Important,Very Important,Important,Very Important,Very Important
+164,20,Male,UNAM,1.All,Important,Important,Important,Neutral,Important,Important,Very Important
+165,20,Female,UNAM,1.All,Neutral,Neutral,Important,Important,Neutral,Important,Important
+166,20,Female,UNAM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Important,Very Important
+167,21,Female,UNAM,1.All,Very Important,Very Important,Very Important,Important,Very Important,Very Important,Very Important
+168,20,Female,UNAM,1.All,Very Important,Important,Very Important,Very Important,Important,Very Important,Very Important
+169,20,Female,UNAM,1.All,Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+170,19,Female,UNAM,1.All,Important,Very Important,Important,Important,Important,Important,Very Important
+171,19,Female,UNAM,1.All,Important,Important,Neutral,Neutral,Neutral,Very Important,Important
+172,19,Female,UNAM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+173,20,Female,UNAM,1.All,Important,Important,Important,Important,Important,Very Important,Important
+174,22,Female,UNAM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+175,20,Male,UNAM,1.All,Important,Very Important,Very Important,Very Important,Important,Important,Very Important
+176,21,Female,UNAM,1.All,Slightly Important,Neutral,Neutral,Important,Not Important,Neutral,Important
+177,19,Male,UNAM,1.All,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important
+178,21,Female,UNAM,1.All,Important,Important,Important,Important,Important,Very Important,Important
+179,20,Male,UNAM,1.All,Very Important,Important,Neutral,Neutral,Important,Very Important,Important
+180,20,Female,UNAM,1.All,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+181,21,Female,UNAM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+182,20,Female,UNAM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+183,22,Female,UNAM,1.All,Important,Very Important,Very Important,Very Important,Neutral,Important,Very Important
+184,20,Female,UNAM,1.All,Important,Neutral,Neutral,Important,Important,Important,Neutral
+185,20,Female,UNAM,1.All,Not Important,Not Important,Not Important,Not Important,Not Important,Very Important,Not Important
+186,22,Female,UNAM,1.All,Neutral,Neutral,Neutral,Slightly Important,Slightly Important,Neutral,Neutral
+187,19,Female,UNAM,1.All,Important,Important,Important,Very Important,Important,Very Important,Important
+188,20,Female,UNAM,1.All,Important,Neutral,Important,Important,Important,Very Important,Neutral
+189,20,Female,UNAM,1.All,Very Important,Very Important,Very Important,Very Important,Important,Very Important,Very Important
+190,20,Female,UNAM,1.All,Very Important,Very Important,Very Important,Neutral,Important,Very Important,Very Important
+191,20,Female,UNAM,1.All,Important,Neutral,Important,Important,Important,Very Important,Neutral
+192,21,Female,UNAM,1.All,Important,Important,Important,Important,Neutral,Very Important,Important
+193,19,Female,UNAM,1.All,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+194,20,Female,UNAM,1.All,Not Important,Not Important,Slightly Important,Not Important,Neutral,Important,Neutral
+195,19,Female,UNAM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+196,20,Female,UNAM,1.All,Very Important,Very Important,Important,Important,Important,Very Important,Very Important
+197,20,Female,UNAM,1.All,Very Important,Very Important,Important,Very Important,Very Important,Very Important,Very Important
+198,20,Female,UNAM,1.All,Slightly Important,Not Important,Slightly Important,Neutral,Neutral,Neutral,Not Important
+199,20,Female,UNAM,1.All,Neutral,Not Important,Slightly Important,Neutral,Slightly Important,Very Important,Neutral
+200,19,Female,UNAM,1.All,Important,Important,Important,Very Important,Very Important,Very Important,Important
+201,21,Male,UNAM,1.All,Important,Important,Important,Important,Important,Important,Neutral
+202,21,Female,UNAM,1.All,Neutral,Important,Very Important,Neutral,Slightly Important,Neutral,Very Important
+203,23,Female,UNAM,1.All,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important,Very Important
+204,20,Female,UNAM,1.All,Neutral,Neutral,Neutral,Not Important,Neutral,Very Important,Neutral
+205,21,Female,UNAM,1.All,Important,Very Important,Very Important,Important,Important,Very Important,Important
+206,20,Female,UNAM,1.All,Slightly Important,Important,Neutral,Slightly Important,Slightly Important,Neutral,Neutral
+207,20,Female,UNAM,1.All,Very Important,Very Important,Important,Very Important,Neutral,Very Important,Important
+208,20,Female,UNAM,1.All,Very Important,Important,Very Important,Very Important,Very Important,Important,Important
+209,20,Female,UNAM,1.All,Important,Important,Very Important,Very Important,Important,Very Important,Very Important
+210,19,Female,UNAM,1.All,Neutral,Slightly Important,Slightly Important,Not Important,Slightly Important,Important,Important
+211,21,Female,UNAM,1.All,Neutral,Important,Important,Important,Slightly Important,Important,Important
+212,20,Female,URJC,1.All,Important,Very Important,Very Important,Important,Important,Important,Very Important
